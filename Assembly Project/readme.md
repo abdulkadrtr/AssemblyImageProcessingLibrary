@@ -8,4 +8,5 @@ AssemblyImageProcessingLibrary ile bir ilişiği yoktur.
 
 Projeyi çalıştırmak için MSCV compiler (x86 Native Tools Comman Prompt for VS) üzerinde 
 
-`cl /EHsc main.cpp` kodunu çalıştırıp projeyi derleyin. Sonrasında oluşacak olan .exe uzantılı dosyayı kullanabilirsiniz.
+`cl /EHsc main.cpp` kodunu çalıştırıp projeyi derleyin. Sonrasında oluşacak olan .exe uzantılı uygulamayı kullanabilirsiniz.
+
