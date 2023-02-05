@@ -1,6 +1,6 @@
 # Assembly Morfolojik İşlemler Projesi Hk.
 
-Proje dokümanını `20011042.pdf`dir. Doküman içerisinde proje kodları detaylı olarak anlatılmıştır.
+Proje dokümanı `20011042.pdf`dir. Doküman içerisinde proje kodları detaylı olarak anlatılmıştır.
 
 Bu proje yanlızca erosion, dilation morfolojik işlemleri içindir. 
 
