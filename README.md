@@ -39,4 +39,11 @@ Bu projede, aşağıda yer alan tüm görüntü işleme algoritmaları Inline As
 # Youtube Önizleme Videosu
 https://youtu.be/bCF_3d_csyk
 
+## AssemblyProject Dosyası Hk.
+
+Bu dosya yalnızca erosion, dilation morfolojik işlemlerini kapsayan bir projedir.
+
+Proje içerisindeki `20011042.pdf` dokümanında AssemblyProject proje kodlarının ayrıntılı açıklaması yer almaktadır.
+
+AssemblyImageProcessingLibrary ile bir ilişiği yoktur.
 
