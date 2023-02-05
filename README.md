@@ -34,7 +34,7 @@ Bu projede, aşağıda yer alan tüm görüntü işleme algoritmaları Inline As
 
     Bu fonksiyonu kullanmak için grayscale dönüşüm yaptığınız fotoğraf değişkenini kullanarak
     
-    `f.erosion(img,kernel_size)` olarak çağırın. kernel_size değişkeni tek sayı olmalıdır.
+    `f.dilation(img,kernel_size)` olarak çağırın. kernel_size değişkeni tek sayı olmalıdır.
 
 # Youtube Önizleme Videosu
 https://youtu.be/bCF_3d_csyk
