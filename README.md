@@ -18,7 +18,7 @@ Bu projede, aşağıda yer alan tüm görüntü işleme algoritmaları Inline As
 
     Bu fonksiyonu kullanmak için grayscale dönüşüm yaptığınız fotoğraf değişkenini kullanarak
     
-    içerisinde `f.gBlur(img)`  olarak çağırın.
+    `f.gBlur(img)`  olarak çağırın.
     
 - Rgb2Gray
     
