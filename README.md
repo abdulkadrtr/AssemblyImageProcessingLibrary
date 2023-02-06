@@ -36,7 +36,7 @@ Bu projede, aşağıda yer alan tüm görüntü işleme algoritmaları Inline As
     
     `f.dilation(img,kernel_size)` olarak çağırın. kernel_size değişkeni tek sayı olmalıdır.
 
-# Youtube Önizleme Videosu
+# Youtube Proje Tanıtım Videosu
 https://youtu.be/bCF_3d_csyk
 
 ## AssemblyProject Dosyası Hk.
