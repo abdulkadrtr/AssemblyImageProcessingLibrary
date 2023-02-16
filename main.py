@@ -10,7 +10,6 @@ def main():
     img = f.rgb2gray(photo_name)
     cv2.imshow("image",img)
     cv2.waitKey(0)
-    img = cv2.GaussianBlur(img,(5,5),0)
     f.sEdge(img)
     cv2.imshow("image",img)
     cv2.waitKey(0)
